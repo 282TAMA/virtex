@@ -25,7 +25,7 @@ except ModuleNotFoundError:
 finally:
   from bs4 import BeautifulSoup as parser
 
-UPDATE = "10-11-2021 13:07"
+UPDATE = "19-08-2023 16:45"
 
 if 'linux' in sys.platform:
   r = "\033[91m" # Red
