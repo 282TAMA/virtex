@@ -24,7 +24,7 @@ $ cd virtex
 
 $ ls
 
-$python virtex.py
+$python tama.py
 
 • Jika sudah selesai mendownload file Virtex anda bisa memindahkan file tersebut menggunakan mc
 
@@ -36,3 +36,4 @@ CONTOHNYA:
 
 mv v12.txt / sdcard
 
+atau download di chrome salin link nya boy
